@@ -1,4 +1,6 @@
 # Análise de base da Receita Federal sobre Concentração de Renda, Tributação e Isenções do IRPF no Brasil
+<img width="400" height="600" alt="image" src="Análise_IRPF_Impostos.png"/>|
+<img width="400" height="600" alt="image" src="Análise_IRPF_Isenção.png"/>
 
 ## Visão Geral do Projeto
 
